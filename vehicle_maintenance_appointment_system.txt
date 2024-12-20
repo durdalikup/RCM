@@ -1,0 +1,51 @@
+araç bakım randevu sistemi
+--olması şart--
+kesinlikle randevu alman lazım
+kesinlikle araba olması(4 teker)
+en az bir parça ile ilgilenilmes lazım
+--olsa çok güzel--
+birden fazla parça bakımına indirim
+genel bakım seçeneği
+
+--senaryo--
+randevu alma öncesi
+    adımı, soyadımı, araba plakamı girdim
+    adres girdim(opsiyonel)
+randevu oluşturma
+    tarih seç
+    araba modelimi girdim
+    bakım yapılacak parça(lar) seç ya da genel bakım
+    araba alınıyor mu ? götürülüyor mu ?
+    onayla
+ödeme yönlendirme
+    uzaktan
+        kart bilgileri girme
+        kartla ödeme
+    tesisten
+        nakit gir
+(opsiyonel)ödeme sonrası
+    randevu iptali
+    randevu tarihini değiştirme
+    
+RCM(Remote Car Maintenance):   
+Kişinin araç bakımı için uzaktan randevu alabildiği ve karşısına çıkan menüde istediği parça veya parçaları seçebildiği ayrıca genel bakım için randevu alabildiği bir sistem.Bu sistemde kişi aracın adresinden alınıp alınmayacağını seçebilir daha sonrasında ödeme şeklinin bu seçime göre değiştiği
+bi ödeme ekranın yönlendirilir.Randevu tarihini değiştirilebildiği veyahut iptal edilebildiği bu sistemde kayıt oluşturulduktan sonra teknisyenler müşterinin talebini gerçekleştirir.
+    
+    
+Örneğin:    
+Müşteri arabasının birkaç parçasından ses duyar.
+Müşteri aracını bakıma sokmak ister.
+Müşteri yoğun iş temposundan ötürü bu sorunu başkasına çözdürmek ister.
+*müşteri bizi buldu*
+Müşteri randevu öncesi bilgilerini giriyor.
+Müşteri 5 Kasıma randevu tarihi girer.
+Müşteri aracını modelini girer: FIAT Egea.
+Müşteri "Hazır fırsat bulmuşken tüm araca bakım yaptırayım." diyerek genel bakımı seçer.
+Müşteri aracın alınmasını tercih eder lakin adres girmemiştir.
+Müşteri adres girer.
+Müşteri randevuyu onaylar.
+Müşteri ödemeye yönlendirilir.
+Müşteri kart bilgilerini girer.
+Müşteri karttan peşin öder.
+
+***5 Kasımda müşterini aracı adresten alınır bakım yapılır müşteriye teslim edilir.***
