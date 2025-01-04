@@ -1,0 +1,106 @@
+
+
+========================================================
+
+1 . KULLANICININ BILGILERI 
+
+
+Kullanici 1;
+ad:a 
+soyad:a 
+tel no:a 
+
+
+
+*********************************************************
+
+
+1. kullanicinin randevu aldigi aracin:
+
+markasi: a 
+modeli: a 
+plakasi: a 
+
+
+*********************************************************
+
+
+1. kullanicinin arac bakimi:
+
+**Motor Yagi ve Yag Filtresi Degisimi(1350TL)
+**Suspansiyon ve Fren Sistemi Kontrolu(2000TL)
+**Motor Bakimi(2450TL)
+**Far, Aydinlatma ve Elektrik Sistemi Kontrolu(1150TL)
+**Egzoz Sistemi Kontrolu(2200TL)
+
+
+*********************************************************
+
+
+1. kullanicinin adres ve odeme bilgileri:
+
+adres: 
+
+tutar: 9150
+
+*********************************************************
+
+1. kullanicinin: 
+2. ayin 2. gunu arac bakim randevusu vardir.
+
+
+
+*********************************************************
+
+
+
+========================================================
+
+2 . KULLANICININ BILGILERI 
+
+
+Kullanici 2;
+ad:1 
+soyad:1 
+tel no:1 
+
+
+
+*********************************************************
+
+
+2. kullanicinin randevu aldigi aracin:
+
+markasi: 1 
+modeli: 1 
+plakasi: 1 
+
+
+*********************************************************
+
+
+2. kullanicinin arac bakimi:
+
+**Motor Yagi ve Yag Filtresi Degisimi(1350TL)
+**Suspansiyon ve Fren Sistemi Kontrolu(2000TL)
+**Far, Aydinlatma ve Elektrik Sistemi Kontrolu(1150TL)
+
+
+*********************************************************
+
+
+2. kullanicinin adres ve odeme bilgileri:
+
+adres: 
+
+tutar: 4500
+
+*********************************************************
+
+2. kullanicinin: 
+3. ayin 3. gunu arac bakim randevusu vardir.
+
+
+
+*********************************************************
+
